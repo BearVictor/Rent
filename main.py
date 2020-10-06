@@ -4,6 +4,7 @@ import tkinter.messagebox as box
 import pickle
 
 #Оголосимо постійні змінні
+#oopof
 window=Tk()
 window.title("Податки")
 window.resizable( 0, 0 )#розмір вікна деактивний
